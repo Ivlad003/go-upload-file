@@ -1,3 +1,4 @@
+<strong>Install lib for image procesing:</strong> go get -v github.com/disintegration/imaging
 <strong>create folder fot upload files:</strong> mkdir temp-images
 
 <strong>run app:</strong> go run main.go models.go utils.go
